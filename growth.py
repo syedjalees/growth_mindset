@@ -20,7 +20,7 @@ st.markdown("""
 
 #title and description
 st.title("Data Sweeper Sterling Integrator By Sayyed Jalees")
-st.write("Upload your CSV file and select the columns you want to keep. The app will remove the columns you don't want and save the new file.")
+
 st.write("Transform your files between CSV and Excel formats with built-in data cleaning and visualization Creating the project for Quarter 3!")
 
 
